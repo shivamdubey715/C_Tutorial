@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "tUTORIAL27.C": "cpp",
+        "tUTORIAL72.C": "cpp",
+        "stdio.h": "c"
+    }
+}
